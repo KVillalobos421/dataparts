@@ -28,12 +28,12 @@ table {
     table-layout:auto;
  }
 td, th {
-    border: 1px solid #BCFEFF;
+    border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
  }
 tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #BCFEFF;
  }
 </style>
 </head>
