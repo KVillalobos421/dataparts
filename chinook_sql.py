@@ -21,6 +21,9 @@ def sql_read_app(environ, start_response):
 <html>
 <head>
 <style>
+body { 
+background-color: #FFDCDC; 
+ }
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
