@@ -35,7 +35,7 @@ td, th {
 tr:nth-child(even) {
     background-color: #BCFEFF;
  }
- h2{color: 00015A; 
+ h2{color: #001090; 
  font-family: courier;
  font-size: 200%;
  }
