@@ -40,9 +40,6 @@ tr:nth-child(even) {
  font-family: courier;
  font-size: 200%;
  }
- body {
- background-color: #FFADB8;
- }
 </style>
 </head>
 <body>
